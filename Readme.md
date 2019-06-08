@@ -2,6 +2,8 @@
 
 This project is inspired by [Adafruit's Perma-Proto range](https://www.adafruit.com/category/466), [ElectronicEel's protoboard layout](https://github.com/electroniceel/protoboard), and [BusBoard Prototype System's SMT protoboards](https://busboard.com/SP1-50x50-G).
 
+![Board render](screenshot.png)
+
 Details:
 
 * 0.1"-pitch 1mm plated-through holes, connected like a standard solderless breadboard (16 rows long)
